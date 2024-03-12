@@ -1,6 +1,6 @@
 # Information Retreival Search Engine Project 213138787_213479686
 here is Github repository with the code to the information retreival project.
-## Backend.ipynb
+## Backend.py
 the backend of the search engine
 
 ### methods:
@@ -33,3 +33,7 @@ Returns:
 3) create sparse vactor from query counter
 4) extract the posting lists, convert them to vectors
 5) calculating cosine similarity, return top results
+
+## Search_frontend.py
+
+calling backend.py in search() method, returning the top 30 results
