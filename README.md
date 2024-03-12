@@ -32,4 +32,4 @@ Returns:
 2) tokenize & stemming of query
 3) create sparse vactor from query counter
 4) extract the posting lists, convert them to vectors
-5) calculating cosine similarity
+5) calculating cosine similarity, return top results
